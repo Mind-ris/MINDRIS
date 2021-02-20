@@ -1,2 +1,3 @@
 # MINDRIS"#test2" 
-Hi, VI!
+Hi, Vi!
+Nice ....
